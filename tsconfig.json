@@ -6,6 +6,7 @@
     "jsx": "react-jsx",
     "esModuleInterop": true,
     "strict": true,
+    "noEmitOnError": false, // 에러가 있어도 컴파일 강행
     "skipLibCheck": true
   },
   "include": ["src"]
